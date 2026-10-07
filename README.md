@@ -201,7 +201,7 @@ The baseline experiment was performed using **30,000 instances** from the NSL-KD
 Rolling accuracy with a window of 1,000 instances shows how the five streaming models perform throughout the stream.
 
 <p align="center">
-  <img src="./result/baseline_accuracy.png" alt="Rolling Accuracy of Streaming Models" width="900">
+  <img src="results/baseline_accuracy.png" alt="Rolling Accuracy of Streaming Models" width="900">
 </p>
 
 ### Cumulative F1-Score
@@ -209,7 +209,7 @@ Rolling accuracy with a window of 1,000 instances shows how the five streaming m
 The cumulative F1-score provides a long-term view of intrusion-detection performance throughout the stream.
 
 <p align="center">
-  <img src="./result/baseline_f1.png" alt="Cumulative F1 Score of Streaming Models" width="900">
+  <img src="results/baseline_f1.png" alt="Cumulative F1 Score of Streaming Models" width="900">
 </p>
 
 ---
@@ -270,7 +270,7 @@ The transition between the two datasets is treated as a distribution shift for e
 The following visualization shows rolling accuracy during the distribution shift and ADWIN drift alarms for the Hoeffding Tree.
 
 <p align="center">
-  <img src="./result/drift_accuracy.png" alt="Concept Drift Detection and Rolling Accuracy" width="900">
+  <img src="results/drift_accuracy.png" alt="Concept Drift Detection and Rolling Accuracy" width="900">
 </p>
 
 ---
@@ -381,7 +381,7 @@ streaming-ml-intrusion-detection/
 ├── requirements.txt
 ├── README.md
 │
-├── result/
+├── results/
 │   ├── baseline_accuracy.png
 │   ├── baseline_f1.png
 │   └── drift_accuracy.png
@@ -396,9 +396,9 @@ streaming-ml-intrusion-detection/
 
 | File | Description |
 |---|---|
-| `result/baseline_accuracy.png` | Rolling accuracy of the five streaming models |
-| `result/baseline_f1.png` | Cumulative F1-score of the five streaming models |
-| `result/drift_accuracy.png` | Rolling accuracy and drift behaviour |
+| `results/baseline_accuracy.png` | Rolling accuracy of the five streaming models |
+| `results/baseline_f1.png` | Cumulative F1-score of the five streaming models |
+| `results/drift_accuracy.png` | Rolling accuracy and drift behaviour |
 
 ---
 
