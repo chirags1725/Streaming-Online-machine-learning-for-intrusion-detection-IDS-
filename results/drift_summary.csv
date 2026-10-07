@@ -1,0 +1,6 @@
+Model,Overall_acc,Acc_before_drift,Min_acc_after_drift,Recovery_instances,ADWIN_alarms,ADWIN_first_alarm_after_boundary,DDM_alarms,DDM_first_alarm_after_boundary,EDDM_alarms,EDDM_first_alarm_after_boundary
+Hoeffding Tree,0.9062,0.9625,0.834,7250,10,160,2,none,10,none
+Hoeffding Adaptive Tree,0.9261,0.9755,0.826,7250,9,96,2,1177,27,2737
+Adaptive Random Forest,0.972,0.9815,0.868,2250,3,64,1,262,22,686
+Online Naive Bayes,0.5094,0.54,0.374,not recovered,4,864,5,15102,44,212
+HT + reset on ADWIN,0.8257,0.809,0.61,250,26,448,25,417,92,3

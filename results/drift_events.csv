@@ -1,0 +1,283 @@
+model,detector,instance,phase
+Hoeffding Adaptive Tree,EDDM,254,train
+Hoeffding Tree,EDDM,264,train
+HT + reset on ADWIN,EDDM,264,train
+Online Naive Bayes,EDDM,274,train
+Online Naive Bayes,DDM,300,train
+Hoeffding Tree,EDDM,492,train
+HT + reset on ADWIN,EDDM,492,train
+Online Naive Bayes,EDDM,518,train
+Hoeffding Tree,DDM,579,train
+HT + reset on ADWIN,DDM,579,train
+Hoeffding Adaptive Tree,EDDM,581,train
+Adaptive Random Forest,EDDM,581,train
+Hoeffding Tree,EDDM,645,train
+HT + reset on ADWIN,EDDM,645,train
+Online Naive Bayes,EDDM,719,train
+Hoeffding Adaptive Tree,EDDM,738,train
+Hoeffding Tree,EDDM,761,train
+HT + reset on ADWIN,EDDM,761,train
+Hoeffding Tree,DDM,776,train
+HT + reset on ADWIN,DDM,776,train
+Hoeffding Adaptive Tree,DDM,789,train
+Hoeffding Adaptive Tree,EDDM,807,train
+Hoeffding Tree,ADWIN,832,train
+Hoeffding Adaptive Tree,ADWIN,832,train
+HT + reset on ADWIN,ADWIN,832,train
+Hoeffding Tree,EDDM,873,train
+Hoeffding Adaptive Tree,EDDM,877,train
+Online Naive Bayes,EDDM,900,train
+Hoeffding Adaptive Tree,EDDM,950,train
+Hoeffding Tree,EDDM,958,train
+Hoeffding Adaptive Tree,EDDM,1022,train
+Hoeffding Tree,EDDM,1030,train
+Online Naive Bayes,DDM,1089,train
+Online Naive Bayes,EDDM,1089,train
+Hoeffding Tree,EDDM,1118,train
+Hoeffding Adaptive Tree,EDDM,1119,train
+Hoeffding Tree,EDDM,1204,train
+Hoeffding Adaptive Tree,EDDM,1206,train
+Hoeffding Tree,EDDM,1275,train
+Hoeffding Adaptive Tree,EDDM,1277,train
+Online Naive Bayes,EDDM,1445,train
+Online Naive Bayes,EDDM,1626,train
+Hoeffding Adaptive Tree,ADWIN,1760,train
+Online Naive Bayes,EDDM,1774,train
+Online Naive Bayes,EDDM,1872,train
+Online Naive Bayes,ADWIN,1888,train
+Hoeffding Tree,ADWIN,1920,train
+Online Naive Bayes,DDM,1984,train
+Online Naive Bayes,EDDM,2006,train
+Online Naive Bayes,EDDM,2204,train
+Online Naive Bayes,EDDM,2542,train
+Online Naive Bayes,EDDM,2636,train
+Online Naive Bayes,EDDM,2753,train
+Online Naive Bayes,EDDM,2846,train
+Online Naive Bayes,EDDM,2959,train
+Online Naive Bayes,EDDM,3031,train
+Online Naive Bayes,EDDM,3138,train
+Adaptive Random Forest,ADWIN,3200,train
+Online Naive Bayes,EDDM,3237,train
+Online Naive Bayes,EDDM,3312,train
+Online Naive Bayes,EDDM,3426,train
+Online Naive Bayes,EDDM,3523,train
+Hoeffding Tree,ADWIN,3552,train
+Hoeffding Tree,ADWIN,4576,train
+HT + reset on ADWIN,ADWIN,4800,train
+HT + reset on ADWIN,DDM,4802,train
+Online Naive Bayes,EDDM,4952,train
+Online Naive Bayes,ADWIN,4992,train
+Online Naive Bayes,EDDM,5021,train
+Online Naive Bayes,EDDM,5105,train
+Online Naive Bayes,DDM,5106,train
+Online Naive Bayes,EDDM,5180,train
+Online Naive Bayes,EDDM,5298,train
+Online Naive Bayes,EDDM,5390,train
+Online Naive Bayes,EDDM,5458,train
+Online Naive Bayes,EDDM,5541,train
+Online Naive Bayes,EDDM,5650,train
+Hoeffding Tree,ADWIN,5664,train
+HT + reset on ADWIN,DDM,5686,train
+Online Naive Bayes,EDDM,5743,train
+Online Naive Bayes,EDDM,5806,train
+Online Naive Bayes,EDDM,5870,train
+Online Naive Bayes,EDDM,5992,train
+HT + reset on ADWIN,DDM,6023,train
+Online Naive Bayes,EDDM,6070,train
+HT + reset on ADWIN,EDDM,6124,train
+Online Naive Bayes,EDDM,6154,train
+HT + reset on ADWIN,ADWIN,6208,train
+HT + reset on ADWIN,EDDM,6629,train
+HT + reset on ADWIN,EDDM,6849,train
+HT + reset on ADWIN,EDDM,7002,train
+Hoeffding Adaptive Tree,ADWIN,7136,train
+HT + reset on ADWIN,EDDM,7144,train
+HT + reset on ADWIN,EDDM,7347,train
+Hoeffding Tree,ADWIN,7488,train
+HT + reset on ADWIN,EDDM,7590,train
+HT + reset on ADWIN,EDDM,7829,train
+HT + reset on ADWIN,EDDM,8103,train
+HT + reset on ADWIN,EDDM,8315,train
+Hoeffding Tree,ADWIN,8480,train
+HT + reset on ADWIN,EDDM,8533,train
+HT + reset on ADWIN,EDDM,8662,train
+HT + reset on ADWIN,ADWIN,8800,train
+HT + reset on ADWIN,EDDM,9566,train
+HT + reset on ADWIN,EDDM,9978,train
+HT + reset on ADWIN,EDDM,10190,train
+HT + reset on ADWIN,EDDM,10390,train
+Online Naive Bayes,ADWIN,10464,train
+HT + reset on ADWIN,EDDM,10755,train
+HT + reset on ADWIN,EDDM,10971,train
+HT + reset on ADWIN,EDDM,11374,train
+HT + reset on ADWIN,EDDM,11686,train
+HT + reset on ADWIN,EDDM,11838,train
+HT + reset on ADWIN,EDDM,12072,train
+HT + reset on ADWIN,EDDM,12244,train
+HT + reset on ADWIN,EDDM,12519,train
+HT + reset on ADWIN,EDDM,12754,train
+HT + reset on ADWIN,EDDM,13463,train
+HT + reset on ADWIN,EDDM,13727,train
+HT + reset on ADWIN,EDDM,13928,train
+Hoeffding Adaptive Tree,ADWIN,17248,train
+Hoeffding Tree,ADWIN,18048,train
+HT + reset on ADWIN,ADWIN,18048,train
+HT + reset on ADWIN,EDDM,19628,train
+HT + reset on ADWIN,EDDM,19795,train
+HT + reset on ADWIN,EDDM,20003,test
+Adaptive Random Forest,ADWIN,20064,test
+Hoeffding Adaptive Tree,ADWIN,20096,test
+Hoeffding Tree,ADWIN,20160,test
+Online Naive Bayes,EDDM,20212,test
+HT + reset on ADWIN,EDDM,20231,test
+Adaptive Random Forest,DDM,20262,test
+Online Naive Bayes,EDDM,20273,test
+HT + reset on ADWIN,EDDM,20375,test
+HT + reset on ADWIN,DDM,20417,test
+HT + reset on ADWIN,EDDM,20439,test
+HT + reset on ADWIN,ADWIN,20448,test
+HT + reset on ADWIN,EDDM,20590,test
+Adaptive Random Forest,EDDM,20686,test
+Online Naive Bayes,ADWIN,20864,test
+HT + reset on ADWIN,EDDM,21070,test
+Hoeffding Adaptive Tree,DDM,21177,test
+HT + reset on ADWIN,EDDM,21220,test
+Adaptive Random Forest,EDDM,21272,test
+HT + reset on ADWIN,EDDM,21325,test
+HT + reset on ADWIN,DDM,21330,test
+HT + reset on ADWIN,ADWIN,21408,test
+HT + reset on ADWIN,EDDM,21410,test
+Adaptive Random Forest,EDDM,21768,test
+HT + reset on ADWIN,EDDM,21896,test
+HT + reset on ADWIN,EDDM,21988,test
+HT + reset on ADWIN,EDDM,22071,test
+HT + reset on ADWIN,DDM,22082,test
+Adaptive Random Forest,ADWIN,22208,test
+HT + reset on ADWIN,EDDM,22296,test
+HT + reset on ADWIN,ADWIN,22336,test
+Adaptive Random Forest,EDDM,22481,test
+Hoeffding Adaptive Tree,EDDM,22737,test
+Hoeffding Tree,ADWIN,23040,test
+Adaptive Random Forest,EDDM,23075,test
+Hoeffding Adaptive Tree,EDDM,23137,test
+HT + reset on ADWIN,EDDM,23164,test
+HT + reset on ADWIN,ADWIN,23200,test
+HT + reset on ADWIN,DDM,23216,test
+HT + reset on ADWIN,EDDM,23242,test
+Hoeffding Adaptive Tree,ADWIN,23264,test
+HT + reset on ADWIN,EDDM,23436,test
+Hoeffding Adaptive Tree,EDDM,23566,test
+HT + reset on ADWIN,EDDM,23644,test
+HT + reset on ADWIN,EDDM,23740,test
+HT + reset on ADWIN,DDM,23750,test
+Adaptive Random Forest,EDDM,23891,test
+HT + reset on ADWIN,EDDM,23892,test
+HT + reset on ADWIN,DDM,23998,test
+Online Naive Bayes,EDDM,24034,test
+Hoeffding Adaptive Tree,EDDM,24094,test
+Online Naive Bayes,EDDM,24119,test
+HT + reset on ADWIN,ADWIN,24160,test
+Online Naive Bayes,EDDM,24179,test
+Online Naive Bayes,EDDM,24233,test
+Hoeffding Adaptive Tree,EDDM,24254,test
+Hoeffding Adaptive Tree,ADWIN,24256,test
+Online Naive Bayes,EDDM,24282,test
+HT + reset on ADWIN,ADWIN,24480,test
+Hoeffding Adaptive Tree,EDDM,24729,test
+Hoeffding Adaptive Tree,EDDM,25060,test
+HT + reset on ADWIN,DDM,25267,test
+HT + reset on ADWIN,ADWIN,25280,test
+Adaptive Random Forest,EDDM,25403,test
+Hoeffding Adaptive Tree,EDDM,25514,test
+HT + reset on ADWIN,DDM,25544,test
+HT + reset on ADWIN,EDDM,25566,test
+HT + reset on ADWIN,EDDM,25661,test
+HT + reset on ADWIN,ADWIN,25696,test
+Hoeffding Adaptive Tree,EDDM,26025,test
+HT + reset on ADWIN,EDDM,26250,test
+Adaptive Random Forest,EDDM,26319,test
+HT + reset on ADWIN,EDDM,26367,test
+HT + reset on ADWIN,DDM,26390,test
+HT + reset on ADWIN,ADWIN,26400,test
+Hoeffding Adaptive Tree,EDDM,26668,test
+HT + reset on ADWIN,EDDM,26810,test
+HT + reset on ADWIN,DDM,26865,test
+HT + reset on ADWIN,EDDM,26892,test
+HT + reset on ADWIN,EDDM,26974,test
+HT + reset on ADWIN,ADWIN,27008,test
+HT + reset on ADWIN,EDDM,27625,test
+Hoeffding Adaptive Tree,EDDM,27647,test
+Adaptive Random Forest,EDDM,27797,test
+HT + reset on ADWIN,EDDM,27852,test
+Hoeffding Adaptive Tree,EDDM,27857,test
+Hoeffding Adaptive Tree,ADWIN,27904,test
+HT + reset on ADWIN,EDDM,28090,test
+HT + reset on ADWIN,EDDM,28342,test
+HT + reset on ADWIN,EDDM,28667,test
+Adaptive Random Forest,EDDM,28805,test
+HT + reset on ADWIN,EDDM,29029,test
+Hoeffding Adaptive Tree,EDDM,29256,test
+HT + reset on ADWIN,EDDM,29379,test
+Hoeffding Adaptive Tree,EDDM,29633,test
+HT + reset on ADWIN,EDDM,29725,test
+Adaptive Random Forest,EDDM,29797,test
+HT + reset on ADWIN,ADWIN,30144,test
+HT + reset on ADWIN,EDDM,30158,test
+HT + reset on ADWIN,EDDM,30277,test
+Hoeffding Adaptive Tree,EDDM,30451,test
+Adaptive Random Forest,EDDM,30567,test
+HT + reset on ADWIN,EDDM,30647,test
+HT + reset on ADWIN,DDM,30709,test
+HT + reset on ADWIN,EDDM,30733,test
+HT + reset on ADWIN,ADWIN,30784,test
+Hoeffding Adaptive Tree,EDDM,30853,test
+HT + reset on ADWIN,EDDM,31288,test
+HT + reset on ADWIN,EDDM,31371,test
+HT + reset on ADWIN,DDM,31376,test
+Hoeffding Adaptive Tree,EDDM,31449,test
+HT + reset on ADWIN,ADWIN,31456,test
+HT + reset on ADWIN,EDDM,32321,test
+HT + reset on ADWIN,DDM,32389,test
+HT + reset on ADWIN,EDDM,32414,test
+HT + reset on ADWIN,ADWIN,32416,test
+HT + reset on ADWIN,EDDM,32630,test
+HT + reset on ADWIN,EDDM,33078,test
+HT + reset on ADWIN,DDM,33137,test
+HT + reset on ADWIN,EDDM,33162,test
+HT + reset on ADWIN,ADWIN,33184,test
+Adaptive Random Forest,EDDM,33349,test
+HT + reset on ADWIN,EDDM,33610,test
+HT + reset on ADWIN,DDM,33669,test
+HT + reset on ADWIN,EDDM,33692,test
+HT + reset on ADWIN,EDDM,33840,test
+HT + reset on ADWIN,EDDM,33929,test
+HT + reset on ADWIN,ADWIN,33984,test
+Adaptive Random Forest,EDDM,34574,test
+HT + reset on ADWIN,EDDM,34633,test
+HT + reset on ADWIN,ADWIN,34688,test
+Online Naive Bayes,DDM,35102,test
+Adaptive Random Forest,EDDM,35511,test
+Adaptive Random Forest,EDDM,36341,test
+Adaptive Random Forest,EDDM,37198,test
+HT + reset on ADWIN,ADWIN,38080,test
+Adaptive Random Forest,EDDM,38445,test
+HT + reset on ADWIN,ADWIN,38688,test
+HT + reset on ADWIN,DDM,39073,test
+HT + reset on ADWIN,DDM,39122,test
+HT + reset on ADWIN,EDDM,39128,test
+HT + reset on ADWIN,EDDM,39197,test
+HT + reset on ADWIN,ADWIN,39264,test
+HT + reset on ADWIN,EDDM,39271,test
+Adaptive Random Forest,EDDM,39598,test
+Hoeffding Adaptive Tree,ADWIN,39680,test
+HT + reset on ADWIN,EDDM,39910,test
+HT + reset on ADWIN,DDM,39996,test
+HT + reset on ADWIN,ADWIN,40000,test
+HT + reset on ADWIN,EDDM,40724,test
+Adaptive Random Forest,EDDM,40735,test
+HT + reset on ADWIN,DDM,40741,test
+HT + reset on ADWIN,DDM,40804,test
+HT + reset on ADWIN,EDDM,40833,test
+HT + reset on ADWIN,EDDM,41085,test
+HT + reset on ADWIN,EDDM,41407,test
+Adaptive Random Forest,EDDM,41618,test
